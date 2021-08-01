@@ -2,7 +2,7 @@
 
 
 	 💻 Software Developer
-	 🚀 CTO at PJA
+	 🚀 CTO at inBolso
 	 🌎 Impeatriz, MA, BR
 	 
 
