@@ -2,8 +2,8 @@
 
 
 	 💻 Software Developer
-	 🚀 CTO at inBolso
-	 🌎 Impeatriz, MA, BR
+	 🚀 TechLead at inBolso
+	 🌎 Barueri, SP, BR
 	 
 
 
