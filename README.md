@@ -2,8 +2,7 @@
 
 
 	 💻 Software Developer
-	 🚀 TechLead at inBolso
-	 🌎 Barueri, SP, BR
+	 🌎 Sobral, CE, BR
 	 
 
 
