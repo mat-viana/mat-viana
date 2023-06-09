@@ -48,4 +48,4 @@
 ### 🚀 Find Me
   [![Linkedin: Matheus](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-viana-034714100/)](https://www.linkedin.com/in/matheus-viana-034714100/)
 
-![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram&link=hhttps://www.instagram.com/mhviana42/)
+![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram&link=https://www.instagram.com/mhviana42/)
